@@ -1,4 +1,4 @@
-//made by Cranki
+ //made by Cranki
 
 var _app = function () {
     this.id = 0;
@@ -11,18 +11,14 @@ var _app = function () {
     this.shouldIgnoreVideo = false;
     this.effects = ["bounce", "flash", "pulse", "rubberBand", "shake", "swing", "tada", "wobble", "jello"];
     this.brandDescription = [
-        "meme necromancer", 
         "welcome", 
-        "crmnl cheat'n'executor", 
         "„Haben ist besser als brauchen“", 
-        "botega veneta", 
-        "meme necromancer", 
         "peacekeeper"
     ];
 
     this.titleChanger = function (text, delay) {
         text = text ||
-            ['crmnl.pw', 'crmnl.cheat', 'crmnl.club', 'crmnl cheat', 'Enjoy the Music'];
+            ['p4radox.cf', 'Hi, Wmds', 'sara gbs mein idol', 'junge komm discord', 'einfach auf discord drücken'];
         delay = delay || 2000;
 
         var counter = 0;
